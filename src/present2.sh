@@ -1,0 +1,1 @@
+libreoffice --quickstart --show "$@"

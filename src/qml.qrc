@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LoginScreenForm.qml</file>
+        <file>MenuScreenForm.qml</file>
+        <file>Images/Loading.gif</file>
+        <file>Images/ninh.jpeg</file>
+        <file>Images/hoang.jpeg</file>
+        <file>Images/a.jpeg</file>
+        <file>Images/b.jpeg</file>
+        <file>newitem.qml</file>
+        <file>newitem2.qml</file>
+        <file>Images/noimage.png</file>
+    </qresource>
+</RCC>
